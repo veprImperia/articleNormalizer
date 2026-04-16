@@ -1,0 +1,38 @@
+{
+  "d251005ЗаключениеАннотацииОвсянниковВ.М..docx": {
+    "status": "ignored",
+    "issues": [],
+    "optional_miss": [],
+    "_doc_kind": "application",
+    "merge_ready_minimal": false,
+    "merge_score": 0,
+    "duplicate_key": "d251005заключениеаннотацииовсянниковв м"
+  },
+  "d251006ЗаключениеТезисыОвсянниковВ.М..docx": {
+    "status": "ignored",
+    "issues": [],
+    "optional_miss": [],
+    "_doc_kind": "application",
+    "merge_ready_minimal": false,
+    "merge_score": 0,
+    "duplicate_key": "d251006заключение овсянниковв м"
+  },
+  "Эксперт. закл. 1 Обносов. История навигации....docx": {
+    "status": "ignored",
+    "issues": [],
+    "optional_miss": [],
+    "_doc_kind": "application",
+    "merge_ready_minimal": false,
+    "merge_score": 0,
+    "duplicate_key": "эксперт закл 1 обносов история навигации"
+  },
+  "Эксперт. закл. 2 Обносов. Методика....docx": {
+    "status": "ignored",
+    "issues": [],
+    "optional_miss": [],
+    "_doc_kind": "application",
+    "merge_ready_minimal": false,
+    "merge_score": 0,
+    "duplicate_key": "эксперт закл 2 обносов методика"
+  }
+}

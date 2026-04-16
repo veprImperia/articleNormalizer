@@ -1,0 +1,144 @@
+{
+  "Korotkov_Minaeva_Tezisy_FAPM2025_en.docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 7,
+    "duplicate_key": "korotkov minaeva fapm2025 en"
+  },
+  "Summary.docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": -96,
+    "duplicate_key": ""
+  },
+  "Аннотация Прокофьев_ОчеретяныйЮ Топейцев.docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 7,
+    "duplicate_key": "прокофьев очеретяныйю топейцев"
+  },
+  "Аннотация-Бойко_АВ(FARM2025).docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 7,
+    "duplicate_key": "бойко ав(farm2025)"
+  },
+  "АННОТАЦИЯ_англ_FAPM 2025_Зубин.docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 3,
+    "duplicate_key": "англ fapm 2025 зубин"
+  },
+  "аннотация_Тагировой_FAPM25_англ_яз .docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 2,
+    "duplicate_key": "тагировой fapm25 англ яз"
+  },
+  "Краснобаев тезисы FARM 2025.docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 6,
+    "duplicate_key": "краснобаев farm 2025"
+  },
+  "Юй_Аннотация_FAPM2025.docx": {
+    "status": "invalid",
+    "issues": [
+      "missing_title_ru",
+      "missing_authors_ru_block",
+      "missing_abstract_ru"
+    ],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 10,
+    "duplicate_key": "юй fapm2025"
+  }
+}

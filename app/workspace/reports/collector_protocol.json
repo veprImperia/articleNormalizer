@@ -1,0 +1,2790 @@
+{
+  "accepted_packages": [
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\01",
+      "docx_files": [
+        "Аннотация Одинцов.docx"
+      ],
+      "expert_signs": [
+        "name:Эксп.pdf -> ['экс', 'эксп']",
+        "ext:Эксп.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\02",
+      "docx_files": [
+        "Аннотация Горбачевская.docx"
+      ],
+      "expert_signs": [
+        "name:Эксп.pdf -> ['экс', 'эксп']",
+        "ext:Эксп.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\03",
+      "docx_files": [
+        "Тезисы пленарные.docx"
+      ],
+      "expert_signs": [
+        "name:Эксп.pdf -> ['экс', 'эксп']",
+        "ext:Эксп.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\04",
+      "docx_files": [
+        "vetchinkindnmevpenshkpmtezisy.docx",
+        "Аннотация Ветчинкин Д.Н., Мелкумова Е.В., Поляхова Е.Н., Шкапов П.М..docx"
+      ],
+      "expert_signs": [
+        "ext:Scan_2025_402_Мелкумова.pdf",
+        "name:Заявка на участника FAPM-2025 Мелкумова Е.В. (Поляхова Е.Н.).doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\05",
+      "docx_files": [
+        "Окунев-Аннотация.docx",
+        "Окунев-Тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Окунев-Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\06",
+      "docx_files": [
+        "Аннотация_Иванычев Д.А..docx",
+        "Тезисы_Иванычев Д.А..docx"
+      ],
+      "expert_signs": [
+        "ext:IMG20251014113936.jpg",
+        "name:Заявка_Иванычев Д.А..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\08",
+      "docx_files": [
+        "Аннотация-Ивана_Милич_Житник.docx",
+        "Тезисы доклада Rus-Ивана_Милич_Житник.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025-Ивана_Милич_Житник.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\09",
+      "docx_files": [
+        "Аннотация  Андреев.docx",
+        "Исправленные Тезисы Андреев .docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:экспертное заключение аннотация.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:экспертное заключение аннотация.pdf",
+        "name:Экспертное заключение тезисы.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение тезисы.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\10",
+      "docx_files": [
+        "Аннотация Петром М.М..docx",
+        "Тезисы Петров М.М. МГУ.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Петров М.М..doc -> ['заявка']",
+        "ext:ЭЗ_Петров М.М..jpeg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\100",
+      "docx_files": [
+        "ОрлянскаяТИ_аннотация.docx",
+        "ОрлянскаяТИ_заявка.docx",
+        "ОрлянскаяТИ_тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение_Орлянская Т.И..pdf -> ['закл', 'заключ']",
+        "ext:Заключение_Орлянская Т.И..pdf",
+        "name:ОрлянскаяТИ_заявка.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\102",
+      "docx_files": [
+        "аннотация_F2025_Привалова.docx",
+        "заявка.docx"
+      ],
+      "expert_signs": [
+        "name:акт эксп Привалова002.pdf -> ['экс', 'эксп']",
+        "ext:акт эксп Привалова002.pdf",
+        "name:заявка.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\103",
+      "docx_files": [
+        "Аннотация.docx",
+        "тезисы 1.docx",
+        "Эксперт. закл. 1 Обносов. История навигации....docx"
+      ],
+      "expert_signs": [
+        "name:Заявка.doc -> ['заявка']",
+        "name:Эксперт. закл. 1 Обносов. История навигации....docx -> ['экс', 'эксп', 'эксперт', 'закл']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\104",
+      "docx_files": [
+        "Дуйшеналиев_Аннотация_10.10.25.docx"
+      ],
+      "expert_signs": [
+        "name:Дуйшеналиев_Заявка на участника FAPM-2025_10.10.25.doc -> ['заявка']",
+        "name:Экспертное заключение_МЭИ_FAPM-2025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение_МЭИ_FAPM-2025.pdf",
+        "name:Экспертное заключение_ЭнМИ_FAPM-2025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение_ЭнМИ_FAPM-2025.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\106",
+      "docx_files": [
+        "Журин С.В. Аннотация и Тезисы.docx",
+        "Журин С.В. Заявка на участника FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "ext:IMG_20251107_192146.jpg",
+        "name:Журин С.В. Заявка на участника FAPM-2025.docx -> ['заявка']",
+        "name:Экспертное ЖуринС.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное ЖуринС.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\107",
+      "docx_files": [
+        "Аннот. Каданцев. Карпачев.docx",
+        "тезисы Каданцев. Карпачев.docx"
+      ],
+      "expert_signs": [
+        "ext:2025-11-23_001.jpg",
+        "ext:2025-11-23_002.jpg",
+        "name:Каданцев Д.О.Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\108",
+      "docx_files": [
+        "Бычков Р.С._Аннотация.docx",
+        "Бычков Р.С._Тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Бычков Р.С,_Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:Бычков_Р.С._Экспертное заключение.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Бычков_Р.С._Экспертное заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\109",
+      "docx_files": [
+        "Seesaw_FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\11",
+      "docx_files": [
+        "golubevyufkvvmevtezisy.docx",
+        "Аннотация Голубев Ю.Ф., Корянов В.В., Мелкумова Е.В..docx"
+      ],
+      "expert_signs": [
+        "ext:Scan_2025_401_Мелкумова.pdf",
+        "name:Заявка на участника FAPM-2025 Мелкумова Е.В..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\110",
+      "docx_files": [
+        "Аннотация-Грибова-ОВ.docx",
+        "Тезисы - ГрибоваОВ.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка-Грибова- FAPM-2025.doc -> ['заявка']",
+        "name:Эксп. закл. Грибова ОВ-1.pdf -> ['экс', 'эксп', 'закл']",
+        "ext:Эксп. закл. Грибова ОВ-1.pdf",
+        "name:Эксп. закл. Грибова ОВ-2.pdf -> ['экс', 'эксп', 'закл']",
+        "ext:Эксп. закл. Грибова ОВ-2.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\111",
+      "docx_files": [
+        "аннотация_FAPM2025_Климина.docx",
+        "заявка Климина.docx"
+      ],
+      "expert_signs": [
+        "name:акт эксп Климиной.pdf -> ['экс', 'эксп']",
+        "ext:акт эксп Климиной.pdf",
+        "name:заявка Климина.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\112",
+      "docx_files": [
+        "аннотация Брюквин А.В..docx"
+      ],
+      "expert_signs": [
+        "name:заключение Брюквин 1.jpg -> ['закл', 'заключ']",
+        "ext:заключение Брюквин 1.jpg",
+        "name:заключение Брюквин 2.jpg -> ['закл', 'заключ']",
+        "ext:заключение Брюквин 2.jpg",
+        "name:Заявка на участника Брюквин А.В..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\113",
+      "docx_files": [
+        "Klimov-FAPM-tesis.docx",
+        "Анотация-Klimov-imec.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Климов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\114",
+      "docx_files": [
+        "Аннотация_Берестова СА _Поле температур.docx"
+      ],
+      "expert_signs": [
+        "ext:акт_Берестова_Поле температур.pdf",
+        "name:Заявка Берестова СА (гидродинамика).doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\115",
+      "docx_files": [
+        "Аннотация_Берестова СА _Ситуационные задания.docx"
+      ],
+      "expert_signs": [
+        "ext:Акт_Берестова_методработа.pdf",
+        "name:Заявка Берестова СА (методсекция).doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\116",
+      "docx_files": [
+        "Krasinskiy 1. docx.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Krasinskiy1.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\117",
+      "docx_files": [
+        "Krasinskiy 2. docx.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Krasinskiy2.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\118",
+      "docx_files": [
+        "Аннотация (Павлов И.В.).docx",
+        "Заявка (Павлов И.В.).docx"
+      ],
+      "expert_signs": [
+        "name:Заявка (Павлов И.В.).docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\119",
+      "docx_files": [
+        "Аннотация.docx",
+        "тезисы 2.docx",
+        "Эксперт. закл. 2 Обносов. Методика....docx"
+      ],
+      "expert_signs": [
+        "name:Заявка.doc -> ['заявка']",
+        "name:Эксперт. закл. 2 Обносов. Методика....docx -> ['экс', 'эксп', 'эксперт', 'закл']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\12",
+      "docx_files": [
+        "Заявка на FAMP(2025).docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на FAMP(2025).docx -> ['заявка']",
+        "name:экспертиза_Кафтайкин (1).pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:экспертиза_Кафтайкин (1).pdf",
+        "name:экспертиза_Кафтайкин.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:экспертиза_Кафтайкин.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\120",
+      "docx_files": [
+        "Полянина АС_Построение инвариантного множества и синтез системы управления с обратной связью по состоянию.docx"
+      ],
+      "expert_signs": [
+        "name:Полянина АС_Заявка.doc -> ['заявка']",
+        "name:Полянина_Экспертное заключение.jpg -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Полянина_Экспертное заключение.jpg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\121",
+      "docx_files": [
+        "Киселева_Е.К._Тезисы_FAPM.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Киселева Е.К..doc -> ['заявка']",
+        "name:Экспертное заключение Киселева Е.К..pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение Киселева Е.К..pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\122",
+      "docx_files": [
+        "FAPM Аннотация Зотов25.docx"
+      ],
+      "expert_signs": [
+        "ext:act_exp_fapm.pdf",
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\123",
+      "docx_files": [
+        "Волков А. А. аннотация.docx",
+        "Волков А.А, тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Волков А.А. заявка.doc -> ['заявка']",
+        "name:Волков А.А. экспертное заключение.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Волков А.А. экспертное заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\124",
+      "docx_files": [
+        "Аннотация Афонина Е В.docx",
+        "Заявка Афонина Е В.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Афонина Е В.docx -> ['заявка']",
+        "name:Экспертное АфонинаЕВ_FAPM25.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное АфонинаЕВ_FAPM25.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\125",
+      "docx_files": [
+        "Аннотация Новицкий, Приходько.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Новицкий.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\126",
+      "docx_files": [
+        "Аннотация Азизов, Приходько.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Азизов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\127",
+      "docx_files": [
+        "Чиненова-Аннотация.docx"
+      ],
+      "expert_signs": [
+        "ext:Scan_2025_437_Чиненова.pdf",
+        "name:Чиненова-Заявка.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\128",
+      "docx_files": [
+        "Аннотация Rus and Eng ВИН КК, Темнов АН, Ануф. ВЮ.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:Экспер. закл. на конф. FARM2025 МГТУ.pdf -> ['экс', 'эксп', 'закл']",
+        "ext:Экспер. закл. на конф. FARM2025 МГТУ.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\129",
+      "docx_files": [
+        "Беличенко аннотации_2025.docx",
+        "Беличенко_тезисы_FAPM_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Беличенко FAPM-2025.doc -> ['заявка']",
+        "ext:ЭЗ_Беличенко.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13",
+      "docx_files": [
+        "d251005ЗаключениеАннотацииОвсянниковВ.М..docx",
+        "d251006ЗаключениеТезисыОвсянниковВ.М..docx",
+        "OvsyannikovVM-tezisyd250933.docx",
+        "OvsyannikovVMannotaziyad250932.docx",
+        "OvsyannikovVMtezisyd250933.docx",
+        "OvsyannikovVMzayavka.docx"
+      ],
+      "expert_signs": [
+        "name:d251005ЗаключениеАннотацииОвсянниковВ.М..docx -> ['закл', 'заключ']",
+        "name:d251006ЗаключениеТезисыОвсянниковВ.М..docx -> ['закл', 'заключ']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\130",
+      "docx_files": [
+        "Обрадович тезисы FAPM 2025.docx",
+        "Пример оформления - тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\131",
+      "docx_files": [
+        "БулатовВВ_аннотация доклада Rus and Eng.docx",
+        "БулатовВВ_тезисы доклада Rus and Eng.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_БулатовВВ.doc -> ['заявка']",
+        "name:Экспертное заключение Булатов В.В. в труды конференциив ФПЗМ.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение Булатов В.В. в труды конференциив ФПЗМ.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\133",
+      "docx_files": [
+        "Аннотация доклада Rus and Eng-Саяпин С.Н..docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2023-Саяпин С.Н..doc -> ['заявка']",
+        "name:ЭксЗакл-Саяпин С.Н..pdf -> ['экс', 'закл']",
+        "ext:ЭксЗакл-Саяпин С.Н..pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\134",
+      "docx_files": [
+        "Аннотация Забытые имена.docx",
+        "Тезисы Забытые имена.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение Мисюра Митюшов.jpg -> ['закл', 'заключ']",
+        "ext:Заключение Мисюра Митюшов.jpg",
+        "name:Заявка1 на участника FAPM-2025  Мисюра Митюшов .doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\135",
+      "docx_files": [
+        "Аннотация  Встреча в SO(3).docx",
+        "Тезсы Встреча в SO(3).docx"
+      ],
+      "expert_signs": [
+        "name:Заявка2 на участника FAPM-2025  Мисюра Митюшов .doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\136",
+      "docx_files": [
+        "Annotation Zditovets.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Здитовец.doc -> ['заявка']",
+        "name:Экспертное_FAPM_Zditovets.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное_FAPM_Zditovets.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\137",
+      "docx_files": [
+        "Аннотация_Китаева Д.А..docx",
+        "Тезисы_Китаева Д.А..docx"
+      ],
+      "expert_signs": [
+        "ext:ekspert_zaklyucheniye_po_nauchnoi_deyatelnosti_2025_Китаева Д.А..jpg",
+        "name:Заявка на участника FAPM-2025_Китаева Д.А..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\139",
+      "docx_files": [
+        "Романовская Е.М. -аннотация (1).docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025(1).doc -> ['заявка']",
+        "ext:Отсканированный документ.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\14",
+      "docx_files": [
+        "Аннотация FARM 2025, ЛукинКБ,  ФН4.docx",
+        "Заявка на участника FAPM-2025, ЛукинК.Б, ФН4.docx",
+        "Тезисы ЛукинКБ, ФН4,08.11.2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025, ЛукинК.Б, ФН4.docx -> ['заявка']",
+        "name:Эксперт. закл(1)., ЛукинКБ, ФН4, 08.11. 2025.jpg -> ['экс', 'эксп', 'эксперт', 'закл']",
+        "ext:Эксперт. закл(1)., ЛукинКБ, ФН4, 08.11. 2025.jpg",
+        "name:Эксперт. закл(2)., ЛукинКБ, ФН4, 08.11. 2025.jpg -> ['экс', 'эксп', 'эксперт', 'закл']",
+        "ext:Эксперт. закл(2)., ЛукинКБ, ФН4, 08.11. 2025.jpg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\141",
+      "docx_files": [
+        "Веремейчик_2025_2.docx",
+        "Веремейчик_2_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Веремейчик_2_заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:Экспертное заключение 2.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение 2.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\142",
+      "docx_files": [
+        "Веремейчик_2025-1.docx",
+        "Веремейчик_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Веремейчик_заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:Экспертное заключение 1.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение 1.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\143",
+      "docx_files": [
+        "Попович_Аннотация_ред.docx"
+      ],
+      "expert_signs": [
+        "name:Попович_Заявка участника FAPM-2025.doc -> ['заявка']",
+        "name:Экспертное_Попович.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное_Попович.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\144",
+      "docx_files": [
+        "Киселёв-Аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:экспертное06112025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:экспертное06112025.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\145",
+      "docx_files": [
+        "Аннотация_Шекенов_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Шекенов.doc -> ['заявка']",
+        "ext:сканирование0002.pdf",
+        "name:Экспертное_Шекенов.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное_Шекенов.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\146",
+      "docx_files": [
+        "Тезисы доклада Rus and Eng_Загайнов.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Загайнов.doc -> ['заявка']",
+        "name:Экспертное_Загайнов.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное_Загайнов.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\147",
+      "docx_files": [
+        "Аннотация.Завойчинская,Лавриков.docx",
+        "Тезисы.Завойчинская,Лавриков.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка.Лавриков,Завойчинская.doc -> ['заявка']",
+        "ext:Разрешение.Завойчинская.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\15",
+      "docx_files": [
+        "Аннотация Орёл Н А.docx",
+        "Тезис FAPM 2025 Орёл Н А (краткая версия).docx"
+      ],
+      "expert_signs": [
+        "ext:Scan_2025_394_Орел.pdf",
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\150",
+      "docx_files": [
+        "тезисы Калиниченко_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Калиниченко_Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\152",
+      "docx_files": [
+        "2025_Perelmuter_Abstract.docx",
+        "2025_Perelmuter_Doclad.docx",
+        "2025_Заявка-Perelmuter.docx"
+      ],
+      "expert_signs": [
+        "ext:2025_Expert_Perelmuter.pdf",
+        "name:2025_Заявка-Perelmuter.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\154",
+      "docx_files": [
+        "! Тезисы, Феоктистов, Андрианов.docx"
+      ],
+      "expert_signs": [
+        "ext:IMG_E0795.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\156",
+      "docx_files": [
+        "Summary.docx",
+        "Аннотация .docx",
+        "Тез доклада.docx"
+      ],
+      "expert_signs": [
+        "name:Акт     экспертизы.docx.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:Акт     экспертизы.docx.pdf",
+        "name:Заявка.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\157",
+      "docx_files": [
+        "Кутузов аннотация FAPM-2025.docx",
+        "Кутузов тезисы FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "name:Кутузов заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\158",
+      "docx_files": [
+        "Аннотация Котов А.docx",
+        "Тезисы Котов А ФН2-31М.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Котов А.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\159",
+      "docx_files": [
+        "Аннотация_Колганова.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка_Колганова.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\160",
+      "docx_files": [
+        "Аннотация_Карабанов.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Карабанов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\161",
+      "docx_files": [
+        "Заграничная (аннотация).docx",
+        "Заграничная (заявка).docx"
+      ],
+      "expert_signs": [
+        "name:Заграничная (заявка).docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\163",
+      "docx_files": [
+        "Аннотация. ГаязовСР. FAPM-2025.docx",
+        "Тезис. ГаязовСР. FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка. ГаязовСР. FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\164",
+      "docx_files": [
+        "Abstract template Rus_Kapranova AB_YaGTU_08112025-2.docx",
+        "Application for FAPM-2022 participant_Kapranova AB_YaGTU-08112025-2.docx"
+      ],
+      "expert_signs": [
+        "name:Экспертное-Капранова АБ-Adobe Scan 13 нояб. 2025 г. (6).pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное-Капранова АБ-Adobe Scan 13 нояб. 2025 г. (6).pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\165",
+      "docx_files": [
+        "Abstract template Rus_Novikov EP_YaGTU_08112025-1.docx",
+        "Application for FAPM-2022 participant_Novikov ER_YaGTU-08112025-1.docx"
+      ],
+      "expert_signs": [
+        "name:Экспертное-Новиков ЕР-Adobe Scan 13 нояб. 2025 г. (5).pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное-Новиков ЕР-Adobe Scan 13 нояб. 2025 г. (5).pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\167",
+      "docx_files": [
+        "Сулимов ВД_.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение Шкапов Сулимов Сулимов10.12.2025.pdf -> ['закл', 'заключ']",
+        "ext:Заключение Шкапов Сулимов Сулимов10.12.2025.pdf",
+        "name:Заявка Сулимова В.Д..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\168",
+      "docx_files": [
+        "Аннотация КБ и Шевченко.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение_ Обносов К.Б..pdf -> ['закл', 'заключ']",
+        "ext:Заключение_ Обносов К.Б..pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\17",
+      "docx_files": [
+        "АннотацияАбраровFAPM25.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Абрарова ДЛ на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\170",
+      "docx_files": [
+        "Саяпин С.Н..docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "ext:Саяпин С.Н.-2025-FAPM.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\173",
+      "docx_files": [
+        "Крищенко аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:Крищенко Заявка на участние в FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\175",
+      "docx_files": [
+        "Искусственная гравитация.docx"
+      ],
+      "expert_signs": [
+        "name:Экспертные гравитация.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:Экспертные гравитация.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\176",
+      "docx_files": [
+        "Математическое_моделирование_траектории_полёта_гимнастического_снаряда.docx"
+      ],
+      "expert_signs": [
+        "ext:Мат моделирование траектории.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\177",
+      "docx_files": [
+        "Расчет_траектории_полета_несимметричного_тела.docx"
+      ],
+      "expert_signs": [
+        "ext:Расчет траектории.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\178",
+      "docx_files": [
+        "Оптимизация манипуляторов.docx",
+        "Оптимизация расчетов кинематики параллельных манипуляторов с учетом задаваемых параметров.docx"
+      ],
+      "expert_signs": [
+        "ext:Оптимизация расчета.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\179",
+      "docx_files": [
+        "Заявка_FAPM-2025.docx",
+        "Тезисы_FAMP.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение Киселева Барбашов .pdf -> ['закл', 'заключ']",
+        "ext:Заключение Киселева Барбашов .pdf",
+        "name:Заявка_FAPM-2025.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\18",
+      "docx_files": [
+        "Тезисы доклада Гришакин_Борисов_rev.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:Экспертное стр1.jpg -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное стр1.jpg",
+        "name:Экспертное стр2.jpg -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное стр2.jpg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\180",
+      "docx_files": [
+        "Lanford_Bifs.docx",
+        "Заявка на участника FAPM-2025 (Канатников).docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 (Канатников).docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\181",
+      "docx_files": [
+        "Аннотация и тезисы - Чжан Юе.docx",
+        "Чжан Юе - Экс Закл осень 2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 - Чжан Юе.doc -> ['заявка']",
+        "name:Чжан Юе - Экс Закл осень 2025.docx -> ['экс', 'закл']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\184",
+      "docx_files": [
+        "FAPM-25 (2).docx",
+        "Тезисы Дьяченко Темнов Колебания физического маятника.docx"
+      ],
+      "expert_signs": [
+        "name:Темнов экспертно.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:Темнов экспертно.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\188",
+      "docx_files": [
+        "Тезисы доклада Барышников Ю.Н..docx"
+      ],
+      "expert_signs": [
+        "ext:2026-03-18_002.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\189",
+      "docx_files": [
+        "Аннотация -Фоминых А.docx"
+      ],
+      "expert_signs": [
+        "ext:doc00131720251212100509.pdf",
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\19",
+      "docx_files": [
+        "Голуб - тезисы.docx",
+        "Голуб_Аннотация_FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "ext:ii_mgaozdl30.jpg",
+        "name:Голуб_Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\21",
+      "docx_files": [
+        "FAPM2025_тезисы доклада _Досаев.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Досаев.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\23",
+      "docx_files": [
+        "Тюрин. Аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\24",
+      "docx_files": [
+        "Каспирович.docx"
+      ],
+      "expert_signs": [
+        "ext:EX2.pdf",
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\25",
+      "docx_files": [
+        "ШуваловДМ_Аннотация доклада Rus and Eng.docx",
+        "ШуваловДМ_Тезисы_доклада_Rus_and_Eng_ред_испр.docx"
+      ],
+      "expert_signs": [
+        "name:ШуваловДМ_Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:ШуваловДМ_Экспертное_Заключение.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:ШуваловДМ_Экспертное_Заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\26",
+      "docx_files": [
+        "Юй_Аннотация_FAPM2025.docx"
+      ],
+      "expert_signs": [
+        "name:Юй_Заявка_FAPM2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\27",
+      "docx_files": [
+        "ВеретимусНК_аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:ВеретимусНК_заявка.doc -> ['заявка']",
+        "name:ВеретимусНК_экспертное.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:ВеретимусНК_экспертное.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\28",
+      "docx_files": [
+        "ВеретимусДК_аннотация1.docx"
+      ],
+      "expert_signs": [
+        "name:ВеретимусДК_заявка_1.doc -> ['заявка']",
+        "name:ВеретимусДК_экспертное_1.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:ВеретимусДК_экспертное_1.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\29",
+      "docx_files": [
+        "ВеретимусДК_аннотация2.docx"
+      ],
+      "expert_signs": [
+        "name:ВеретимусДК_заявка_2.doc -> ['заявка']",
+        "name:ВеретимусДК_экспертное_2.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:ВеретимусДК_экспертное_2.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\30",
+      "docx_files": [
+        "Аннотация доклада Кумакшев СА.docx"
+      ],
+      "expert_signs": [
+        "ext:Kumakshev_exp_zakl.pdf",
+        "name:Заявка на участника FAPM-2025 Кумакшев СА.doc -> ['заявка']",
+        "name:КумакшевСА эксп закл тезисы.pdf -> ['экс', 'эксп', 'закл']",
+        "ext:КумакшевСА эксп закл тезисы.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\31",
+      "docx_files": [
+        "Аннтотация_Храпов.docx",
+        "Заявка на участника FAPM-2025_Храпов.docx",
+        "Тезисы_и_Аннотация_Храпов.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Храпов.docx -> ['заявка']",
+        "name:ЭкспертноеЗаключение_ХраповСергей.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:ЭкспертноеЗаключение_ХраповСергей.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\32",
+      "docx_files": [
+        "Тезисы FAPM-2025 Борисов А.В..docx",
+        "Шаблон тезисов доклада Rus and Eng Борисов А.В..docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Борисов А.В..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\33",
+      "docx_files": [
+        "Бертяев_аннотация.docx",
+        "Бертяев_Тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Бертяев_Экспертное_закл.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл']",
+        "ext:Бертяев_Экспертное_закл.pdf",
+        "name:Заявка FAPM-2025 Бертяев.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\34",
+      "docx_files": [
+        "БеличенкоДА_FAPM-2025_аннотация.docx",
+        "БеличенкоДА_FAPM-2025_тезис.docx"
+      ],
+      "expert_signs": [
+        "name:БеличенкоДА_экспертное_заключение_FAPM-2025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:БеличенкоДА_экспертное_заключение_FAPM-2025.pdf",
+        "name:Эксп-закл_БеличенкоДА_FAPM-2025_тезис.pdf -> ['экс', 'эксп', 'закл']",
+        "ext:Эксп-закл_БеличенкоДА_FAPM-2025_тезис.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\35",
+      "docx_files": [
+        "Аннотация-Бойко_АВ(FARM2025).docx",
+        "Расш тезисы ПВД.docx"
+      ],
+      "expert_signs": [
+        "name:Акт-экспертизыБойкоАВ.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:Акт-экспертизыБойкоАВ.pdf",
+        "name:Заявка Бойко_АВ  FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\36",
+      "docx_files": [
+        "Аннотация Прокофьев_ОчеретяныйЮ Топейцев.docx",
+        "Расш тезисы ГИС.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Прокофьев.doc -> ['заявка']",
+        "ext:Скан.jpg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\37",
+      "docx_files": [
+        "Данилов - Динамика и управление ногой четырехногого шагающего робота.docx"
+      ],
+      "expert_signs": [
+        "ext:Данилов - FAPM2025_0001.pdf",
+        "name:Заявка на участника FAPM-2025_Данилов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\38",
+      "docx_files": [
+        "Манчев_Аннотация_FAPM-2025.docx",
+        "Манчев_Заявка_FAPM-2025.docx",
+        "Манчев_Тезисы_FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "name:Манчев_Заявка_FAPM-2025.docx -> ['заявка']",
+        "name:Экспертное заключение_Манчев_Э_И_FAPM-2025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение_Манчев_Э_И_FAPM-2025.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\39",
+      "docx_files": [
+        "Кузнецов Ю В - Название и аннотация доклада Rus and Eng.docx",
+        "Кузнецов ЮВ Тезисы доклада.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение о возможности открытого опубликования..pdf -> ['закл', 'заключ']",
+        "ext:Заключение о возможности открытого опубликования..pdf",
+        "name:Кузнецов Ю В - Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\40",
+      "docx_files": [
+        "АННОТАЦИЯ_FAPM 2025_Зубин.docx",
+        "АННОТАЦИЯ_англ_FAPM 2025_Зубин.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка FAPM-2025_Зубин.doc -> ['заявка']",
+        "name:Эксперт_закл_Зубин.pdf -> ['экс', 'эксп', 'эксперт', 'закл']",
+        "ext:Эксперт_закл_Зубин.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\41",
+      "docx_files": [
+        "Chashechkin_Abstract_FARM_Yu_L.docx",
+        "Chashechkin_Annot_FARM_1.docx"
+      ],
+      "expert_signs": [
+        "ext:Act_Letter_Farm_29.09.25.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\42",
+      "docx_files": [
+        "Тезисы_Исмагилов.docx"
+      ],
+      "expert_signs": [
+        "ext:expert_fapm2025_Ismagilov.pdf",
+        "name:Заявка_Исмагилов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\45",
+      "docx_files": [
+        "Аннотация_Наконечный_FAPM.docx",
+        "Наконечный Хохлов Тезисы_FAPM.docx",
+        "Хохлов Тезисы Автоматизированный анализ формы и размеров образцов.docx"
+      ],
+      "expert_signs": [
+        "name:Акт эксп Тезисов ФАПМ Наконечный.pdf -> ['экс', 'эксп']",
+        "ext:Акт эксп Тезисов ФАПМ Наконечный.pdf",
+        "name:Акт эксперт Хохлов ФАПМ.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:Акт эксперт Хохлов ФАПМ.pdf",
+        "name:Наконечный_Егор_заявка_на участие.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\46",
+      "docx_files": [
+        "Аннотация Арцибасов Решмин.docx"
+      ],
+      "expert_signs": [
+        "name:Акт_экспертизы_Арцибасов_Решмин.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:Акт_экспертизы_Арцибасов_Решмин.pdf",
+        "name:Заявка Арцибасов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\47",
+      "docx_files": [
+        "Хохлов Шибанов Автоматизированный анализ формы и размеров образцов.docx"
+      ],
+      "expert_signs": [
+        "name:Хохлов Заявка на участие в FAPM-2023.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\48",
+      "docx_files": [
+        "аннотация Сафонова Щербов МГУ.docx",
+        "тезисы Сафонова Щербов МГУ.docx"
+      ],
+      "expert_signs": [
+        "ext:акт Сафонова Щербов FAPM2025.pdf",
+        "name:Заявка Сафонова Щербов МГУ.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\49",
+      "docx_files": [
+        "ФАПМ Иванов ИСПОЛЬЗОВАНИЕ УТОЧНЕННОЙ МОДЕЛИ АЭРОДИНАМИЧЕСКОГО МОМЕНТА ПРИ ИССЛЕДОВАНИИ МАЛЫХ ВЫСОТ ДВИЖЕНИЯ КОСМИЧЕСКОГО АППАРАТА.docx"
+      ],
+      "expert_signs": [
+        "name:Иванов аэродинамика заключение.pdf -> ['закл', 'заключ']",
+        "ext:Иванов аэродинамика заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\50",
+      "docx_files": [
+        "ФАПМ Иванов ВЫБОР ЗНАЧЕНИЙ КОЭ... ПАНЕЛИ НА ОСНОВЕ КОНЕЧНО-ЭЛЕМЕНТНОГО АНАЛИЗА.docx"
+      ],
+      "expert_signs": [
+        "name:иванов СБ заключение.pdf -> ['закл', 'заключ']",
+        "ext:иванов СБ заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\52",
+      "docx_files": [
+        "Тезисы_Скобелева_1_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника_1_ FAPM-2025.doc -> ['заявка']",
+        "ext:Скобелева.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\53",
+      "docx_files": [
+        "Тезисы_Скобелева_2_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника_2_ FAPM-2025.doc -> ['заявка']",
+        "ext:СкобелеваЯ.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\54",
+      "docx_files": [
+        "Zubin_Maksimov.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка_Максимов.doc -> ['заявка']",
+        "name:Эксперт_закл_Максимов.pdf -> ['экс', 'эксп', 'эксперт', 'закл']",
+        "ext:Эксперт_закл_Максимов.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\55",
+      "docx_files": [
+        "Аннотация_v3.docx",
+        "Тезисы_СлободянюкДМ, АфонинСИ и КирдяевНИ_FAPM.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:Экспертное_мин.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное_мин.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\56",
+      "docx_files": [
+        "OChir_Abstr.docx",
+        "OChir_Tes.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка_Очиров.doc -> ['заявка']",
+        "name:Экспертное.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\57",
+      "docx_files": [
+        "Тезисы_Рябов_Скворцов_ ФиПЗМ.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "ext:УТВЕРЖДАЮ.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\59",
+      "docx_files": [
+        "Краснобаев аннотация FARM 2025.docx",
+        "Краснобаев Заявка на участие в VIII международной научной конференции.docx",
+        "Краснобаев тезисы FARM 2025.docx"
+      ],
+      "expert_signs": [
+        "name:Краснобаев Заявка на участие в VIII международной научной конференции.docx -> ['заявка']",
+        "name:Краснобаев экспертное заключение на аннотацию доклада.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Краснобаев экспертное заключение на аннотацию доклада.pdf",
+        "name:Краснобаев экспертное заключение на тезисы доклада.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Краснобаев экспертное заключение на тезисы доклада.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\60",
+      "docx_files": [
+        "Гулин Хохлов Идентификация по кривым течения 3.docx",
+        "Гулин Хохлов Идентификация по кривым течения.docx"
+      ],
+      "expert_signs": [
+        "name:Акт эксп Тезисов ФАПМ Гулин.pdf -> ['экс', 'эксп']",
+        "ext:Акт эксп Тезисов ФАПМ Гулин.pdf",
+        "name:Гулин Хохлов Заявка.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\61",
+      "docx_files": [
+        "Аннотация_Васенин_Решмин_FAPM2025.docx"
+      ],
+      "expert_signs": [
+        "name:Васенин_Решмин_экспертное_FAPM2025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Васенин_Решмин_экспертное_FAPM2025.pdf",
+        "name:Заявка Васенин FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\62",
+      "docx_files": [
+        "Аннотация_Большенко.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\63",
+      "docx_files": [
+        "КазаковКЕ - Аннотация доклада Rus and Eng.docx"
+      ],
+      "expert_signs": [
+        "name:КазаковКЕ - Заявка на участника FAPM-2025.doc -> ['заявка']",
+        "name:КазаковКЕ - Экспертное заключение.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:КазаковКЕ - Экспертное заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\64",
+      "docx_files": [
+        "АннотацияFAPM25_БудановВМ.docx",
+        "ТезисыFAPM25_БудановВМ.docx"
+      ],
+      "expert_signs": [
+        "ext:Буданов - FAPM2025_0001.pdf",
+        "name:ЗаявкаFAPM-2025_Буданов.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\65",
+      "docx_files": [
+        "Аннотация_FAPM_2025.docx",
+        "Заявка_FAPM_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка_FAPM_2025.docx -> ['заявка']",
+        "name:экспертиза_Ершов.pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:экспертиза_Ершов.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\66",
+      "docx_files": [
+        "Тезисы FAPM-2025 доклада Заболотский вар 1 страничка.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Заболотский А.С..doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\67",
+      "docx_files": [
+        "FAPM_2025_Морозов_Аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:FAPM-2025_Морозов_заявка.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\68",
+      "docx_files": [
+        "Аннотация_Кошелев_АА.docx",
+        "Кошелев_Кугушев_Шахова - тезисы_НОВАЯ ФОРМА.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Кошелев_АА.doc -> ['заявка']",
+        "name:Кошелев_Кугушев_Шахова_Экспертное заключение.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Кошелев_Кугушев_Шахова_Экспертное заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\69",
+      "docx_files": [
+        "Аннотация_Якубович.docx",
+        "Тезисы_Якубович.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка_Якубович.doc -> ['заявка']",
+        "name:Экспертное заключение_Якубович.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение_Якубович.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\70",
+      "docx_files": [
+        "Тезисы_Хорошева_1.docx"
+      ],
+      "expert_signs": [
+        "name:Хорошева Заявка и аннотация 1.zip -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\71",
+      "docx_files": [
+        "Тезисы_Хорошева_2.docx"
+      ],
+      "expert_signs": [
+        "name:Хорошева Заявка и аннотация 2.zip -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\72",
+      "docx_files": [
+        "Аннотация_Конев_Савин.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение.Аннотация.Конев.pdf -> ['закл', 'заключ']",
+        "ext:Заключение.Аннотация.Конев.pdf",
+        "name:Заявка на участие_Конев FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\73",
+      "docx_files": [
+        "Аннотация Лобанов FAPM-2025.docx",
+        "Тезисы Лобанов FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Лобанов FAPM-2025.doc -> ['заявка']",
+        "name:Экспертное заключение Лобанов FAPM-2025.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Экспертное заключение Лобанов FAPM-2025.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\74",
+      "docx_files": [
+        "Аннотация Бутырин.docx"
+      ],
+      "expert_signs": [
+        "ext:image-16-11-25-09-40.png",
+        "name:Заключение_Бутырин.pdf -> ['закл', 'заключ']",
+        "ext:Заключение_Бутырин.pdf",
+        "name:Заявка Бутырин.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\75",
+      "docx_files": [
+        "Шишанин-Обобщения шварциана на старшие производные.docx",
+        "Шишанин-Тезисы-ФАПМ-2025.docx"
+      ],
+      "expert_signs": [
+        "ext:31.10.25 111111.jpg",
+        "ext:31.10.25 2222.jpg",
+        "name:Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\78",
+      "docx_files": [
+        "Мухарлямов. Тезисы FAPM-2025.docx"
+      ],
+      "expert_signs": [
+        "name:Мухарлямов Р.Г. Заявка на участника FAPM-2025.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\79",
+      "docx_files": [
+        "Аннотация_МасловДА.docx",
+        "Тезисы_МасловДА.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка_МасловДА.doc -> ['заявка']",
+        "name:Эксперт.закл.конференция..pdf -> ['экс', 'эксп', 'эксперт', 'закл']",
+        "ext:Эксперт.закл.конференция..pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\80",
+      "docx_files": [
+        "Аннотация Боровкова.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка Боровкова.doc -> ['заявка']",
+        "ext:Лише.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\81",
+      "docx_files": [
+        "Компаниец. Аннотации.docx",
+        "Компаниец. Тезисы.docx"
+      ],
+      "expert_signs": [
+        "name:Заключение о возможности открытого опубликования 1.pdf -> ['закл', 'заключ']",
+        "ext:Заключение о возможности открытого опубликования 1.pdf",
+        "name:Заключение о возможности открытого опубликования 2.pdf -> ['закл', 'заключ']",
+        "ext:Заключение о возможности открытого опубликования 2.pdf",
+        "name:Компаниец. Заявка .doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\82",
+      "docx_files": [
+        "Доклад. FAPM-2025. Ручинский В.С....docx"
+      ],
+      "expert_signs": [
+        "name:Заявка FAPM-2025 Бертяев В.Д..pdf -> ['заявка']",
+        "ext:Заявка FAPM-2025 Бертяев В.Д..pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\83",
+      "docx_files": [
+        "FAPM-2025.  Доклад. Купреев С.А...docx",
+        "FAPM-2025. .Тезисы  доклад. Купреев С.А.., Ручинский В.С..docx"
+      ],
+      "expert_signs": [
+        "name:FAPM-2025.  Акт экспертизы. Купреев С.А., Ручинский В.С. .pdf -> ['экс', 'эксп', 'эксперт']",
+        "ext:FAPM-2025.  Акт экспертизы. Купреев С.А., Ручинский В.С. .pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\84",
+      "docx_files": [
+        "Аннотация_Голубев_AE.docx",
+        "Тезисы_Голубев_АЕ.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_ГолубевАЕ.doc -> ['заявка']",
+        "name:Экспертное.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:Экспертное.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\86",
+      "docx_files": [
+        "Тезисы_Широбокова_2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника_ Широбокова_ FAPM-2025.doc -> ['заявка']",
+        "ext:Широбокова.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\87",
+      "docx_files": [
+        "!!!!ДмитренкоАВ тезисы доклада Rus and Eng (1) (1).docx"
+      ],
+      "expert_signs": [
+        "name:1-я Заявка на участние FAPM-2025.doc -> ['заявка']",
+        "ext:ЭК 1-й Баумана.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\88",
+      "docx_files": [
+        "!!!!!ДмитренкоАВ2 Определение гидравлических потерь.docx"
+      ],
+      "expert_signs": [
+        "name:2-я Заявка на участние FAPM-2025.doc -> ['заявка']",
+        "ext:ЭК 2-й Баумана.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\89",
+      "docx_files": [
+        "Сергеев М.Н. Аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:Сергеев М.Н. Заявка FAPM-2025.doc -> ['заявка']",
+        "name:экспертное Сергеев.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное']",
+        "ext:экспертное Сергеев.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\90",
+      "docx_files": [
+        "Аннотация_Гвоздев.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025_Гвоздев.doc -> ['заявка']",
+        "ext:ЭЗ_Гвоздев.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\91",
+      "docx_files": [
+        "аннотация_Тагировой_FAPM25_англ_яз .docx",
+        "аннотация_Тагировой_FAPM25_рус_яз_1 .docx",
+        "Заявка на участника FAPM-2025-Тагирова.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025-Тагирова.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\92",
+      "docx_files": [
+        "Аннотация_Сунчалина.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025 Сунчалина.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\93",
+      "docx_files": [
+        "Аннотация_07.10.2025.docx"
+      ],
+      "expert_signs": [
+        "name:Заявка на участника FAPM-2025.odt -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\94",
+      "docx_files": [
+        "Korotkov_Minaeva_Tezisy_FAPM2025_en.docx",
+        "Korotkov_Minaeva_Tezisy_FAPM2025_ru.docx",
+        "заявка+аннотация.docx"
+      ],
+      "expert_signs": [
+        "name:заявка+аннотация.docx -> ['заявка']",
+        "name:эксп1 (1).jpeg -> ['экс', 'эксп']",
+        "ext:эксп1 (1).jpeg",
+        "name:эксп1.jpeg -> ['экс', 'эксп']",
+        "ext:эксп1.jpeg",
+        "name:эксп2 (1).jpeg -> ['экс', 'эксп']",
+        "ext:эксп2 (1).jpeg",
+        "name:эксп2.jpeg -> ['экс', 'эксп']",
+        "ext:эксп2.jpeg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\95",
+      "docx_files": [
+        "Тезисы FAPM А.Е. Байков.docx"
+      ],
+      "expert_signs": [
+        "ext:Baikov_exp.pdf",
+        "name:Заявка FAPM-2025 А.Е. Байков.doc -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\96",
+      "docx_files": [
+        "Макиева_Э_И_Аннотация.docx",
+        "Тезисы доклада_Макиева_Э_И.docx"
+      ],
+      "expert_signs": [
+        "name:Макиева_Э_И_Заявка.doc -> ['заявка']",
+        "name:Макиева_Экспертное заключение.pdf -> ['экс', 'эксп', 'эксперт', 'экспертное', 'закл', 'заключ']",
+        "ext:Макиева_Экспертное заключение.pdf"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\97",
+      "docx_files": [
+        "Роганова Т_И_Заявка на участника FAPM-2025.docx",
+        "Роганова_Т_И_Тезисы_Учимся_Учиться.docx"
+      ],
+      "expert_signs": [
+        "name:Заключ к ст Учимся учиться 1.jpg -> ['закл', 'заключ']",
+        "ext:Заключ к ст Учимся учиться 1.jpg",
+        "name:Заключ к ст Учимся учиться 2.jpg -> ['закл', 'заключ']",
+        "ext:Заключ к ст Учимся учиться 2.jpg",
+        "name:Роганова Т_И_Заявка на участника FAPM-2025.docx -> ['заявка']"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\98",
+      "docx_files": [
+        "Жидков Г_Н_Заявка на участника FAPM-2025.docx",
+        "Жидков_Г_Н_Тезисы_Из_истории_Академии.docx"
+      ],
+      "expert_signs": [
+        "name:Жидков Г_Н_Заявка на участника FAPM-2025.docx -> ['заявка']",
+        "name:Заключ к ст Из истории академии 1.jpg -> ['закл', 'заключ']",
+        "ext:Заключ к ст Из истории академии 1.jpg",
+        "name:Заключ к ст Из истории академии 2.jpg -> ['закл', 'заключ']",
+        "ext:Заключ к ст Из истории академии 2.jpg"
+      ]
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\99",
+      "docx_files": [
+        "КоносевичБИ_АННОТАЦИЯ.docx"
+      ],
+      "expert_signs": [
+        "name:КоносевичБИ_заявка.doc -> ['заявка']",
+        "name:КоносевичБИ_Зкспертное_заключение.pdf -> ['закл', 'заключ']",
+        "ext:КоносевичБИ_Зкспертное_заключение.pdf"
+      ]
+    }
+  ],
+  "quarantined_packages": [
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\148",
+      "docx_files": [
+        "О  методе  аналитического  определения  частот  собственных (ред. от 25.08.2025).docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\149",
+      "docx_files": [
+        "Аннотация, МВТУ.docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\153",
+      "docx_files": [
+        "Аннотация_FAPM_Бойко_12_2025.docx",
+        "Тезис_FAPM_Бойко_12_2025.docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\155",
+      "docx_files": [
+        "Zayavka_ПАРХОМЕНКО_КЛИМЕНКО_FAPM-2025.docx",
+        "Тезисы и Аннот_ПАРХОМЕНКО_КЛИМЕНКО FAPM-2025.docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\166",
+      "docx_files": [
+        "Annotatsia_Serebrovskaya.docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\169",
+      "docx_files": [
+        "Dorofeev FAPM Thesis.docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    },
+    {
+      "folder": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\20",
+      "docx_files": [
+        "2025_бауманка_1.docx"
+      ],
+      "reason": "missing expert signs: no pdf, no image files, no filename markers (эксп/закл/заявка)"
+    }
+  ],
+  "copied_docx": [],
+  "skipped_duplicates": [
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\01\\Аннотация Одинцов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\02\\Аннотация Горбачевская.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\03\\Тезисы пленарные.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\04\\vetchinkindnmevpenshkpmtezisy.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\04\\Аннотация Ветчинкин Д.Н., Мелкумова Е.В., Поляхова Е.Н., Шкапов П.М..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\05\\Окунев-Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\05\\Окунев-Тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\06\\Аннотация_Иванычев Д.А..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\06\\Тезисы_Иванычев Д.А..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\08\\Аннотация-Ивана_Милич_Житник.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\08\\Тезисы доклада Rus-Ивана_Милич_Житник.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\09\\Аннотация  Андреев.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\09\\Исправленные Тезисы Андреев .docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\10\\Аннотация Петром М.М..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\10\\Тезисы Петров М.М. МГУ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\100\\ОрлянскаяТИ_аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\100\\ОрлянскаяТИ_заявка.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\100\\ОрлянскаяТИ_тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\102\\аннотация_F2025_Привалова.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\102\\заявка.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\103\\Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\103\\тезисы 1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\103\\Эксперт. закл. 1 Обносов. История навигации....docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\104\\Дуйшеналиев_Аннотация_10.10.25.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\106\\Журин С.В. Аннотация и Тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\106\\Журин С.В. Заявка на участника FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\107\\Аннот. Каданцев. Карпачев.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\107\\тезисы Каданцев. Карпачев.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\108\\Бычков Р.С._Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\108\\Бычков Р.С._Тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\109\\Seesaw_FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\11\\golubevyufkvvmevtezisy.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\11\\Аннотация Голубев Ю.Ф., Корянов В.В., Мелкумова Е.В..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\110\\Аннотация-Грибова-ОВ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\110\\Тезисы - ГрибоваОВ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\111\\аннотация_FAPM2025_Климина.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\111\\заявка Климина.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\112\\аннотация Брюквин А.В..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\113\\Klimov-FAPM-tesis.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\113\\Анотация-Klimov-imec.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\114\\Аннотация_Берестова СА _Поле температур.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\115\\Аннотация_Берестова СА _Ситуационные задания.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\116\\Krasinskiy 1. docx.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\117\\Krasinskiy 2. docx.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\118\\Аннотация (Павлов И.В.).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\118\\Заявка (Павлов И.В.).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\119\\Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\119\\тезисы 2.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\119\\Эксперт. закл. 2 Обносов. Методика....docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\12\\Заявка на FAMP(2025).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\120\\Полянина АС_Построение инвариантного множества и синтез системы управления с обратной связью по состоянию.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\121\\Киселева_Е.К._Тезисы_FAPM.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\122\\FAPM Аннотация Зотов25.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\123\\Волков А. А. аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\123\\Волков А.А, тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\124\\Аннотация Афонина Е В.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\124\\Заявка Афонина Е В.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\125\\Аннотация Новицкий, Приходько.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\126\\Аннотация Азизов, Приходько.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\127\\Чиненова-Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\128\\Аннотация Rus and Eng ВИН КК, Темнов АН, Ануф. ВЮ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\129\\Беличенко аннотации_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\129\\Беличенко_тезисы_FAPM_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13\\d251005ЗаключениеАннотацииОвсянниковВ.М..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13\\d251006ЗаключениеТезисыОвсянниковВ.М..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13\\OvsyannikovVM-tezisyd250933.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13\\OvsyannikovVMannotaziyad250932.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13\\OvsyannikovVMtezisyd250933.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\13\\OvsyannikovVMzayavka.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\130\\Обрадович тезисы FAPM 2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\130\\Пример оформления - тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\131\\БулатовВВ_аннотация доклада Rus and Eng.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\131\\БулатовВВ_тезисы доклада Rus and Eng.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\133\\Аннотация доклада Rus and Eng-Саяпин С.Н..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\134\\Аннотация Забытые имена.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\134\\Тезисы Забытые имена.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\135\\Аннотация  Встреча в SO(3).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\135\\Тезсы Встреча в SO(3).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\136\\Annotation Zditovets.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\137\\Аннотация_Китаева Д.А..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\137\\Тезисы_Китаева Д.А..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\139\\Романовская Е.М. -аннотация (1).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\14\\Аннотация FARM 2025, ЛукинКБ,  ФН4.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\14\\Заявка на участника FAPM-2025, ЛукинК.Б, ФН4.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\14\\Тезисы ЛукинКБ, ФН4,08.11.2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\141\\Веремейчик_2025_2.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\141\\Веремейчик_2_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\142\\Веремейчик_2025-1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\142\\Веремейчик_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\143\\Попович_Аннотация_ред.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\144\\Киселёв-Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\145\\Аннотация_Шекенов_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\146\\Тезисы доклада Rus and Eng_Загайнов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\147\\Аннотация.Завойчинская,Лавриков.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\147\\Тезисы.Завойчинская,Лавриков.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\15\\Аннотация Орёл Н А.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\15\\Тезис FAPM 2025 Орёл Н А (краткая версия).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\150\\тезисы Калиниченко_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\152\\2025_Perelmuter_Abstract.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\152\\2025_Perelmuter_Doclad.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\152\\2025_Заявка-Perelmuter.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\154\\! Тезисы, Феоктистов, Андрианов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\156\\Summary.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\156\\Аннотация .docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\156\\Тез доклада.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\157\\Кутузов аннотация FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\157\\Кутузов тезисы FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\158\\Аннотация Котов А.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\158\\Тезисы Котов А ФН2-31М.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\159\\Аннотация_Колганова.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\160\\Аннотация_Карабанов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\161\\Заграничная (аннотация).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\161\\Заграничная (заявка).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\163\\Аннотация. ГаязовСР. FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\163\\Тезис. ГаязовСР. FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\164\\Abstract template Rus_Kapranova AB_YaGTU_08112025-2.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\164\\Application for FAPM-2022 participant_Kapranova AB_YaGTU-08112025-2.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\165\\Abstract template Rus_Novikov EP_YaGTU_08112025-1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\165\\Application for FAPM-2022 participant_Novikov ER_YaGTU-08112025-1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\167\\Сулимов ВД_.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\168\\Аннотация КБ и Шевченко.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\17\\АннотацияАбраровFAPM25.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\170\\Саяпин С.Н..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\173\\Крищенко аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\175\\Искусственная гравитация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\176\\Математическое_моделирование_траектории_полёта_гимнастического_снаряда.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\177\\Расчет_траектории_полета_несимметричного_тела.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\178\\Оптимизация манипуляторов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\178\\Оптимизация расчетов кинематики параллельных манипуляторов с учетом задаваемых параметров.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\179\\Заявка_FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\179\\Тезисы_FAMP.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\18\\Тезисы доклада Гришакин_Борисов_rev.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\180\\Lanford_Bifs.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\180\\Заявка на участника FAPM-2025 (Канатников).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\181\\Аннотация и тезисы - Чжан Юе.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\181\\Чжан Юе - Экс Закл осень 2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\184\\FAPM-25 (2).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\184\\Тезисы Дьяченко Темнов Колебания физического маятника.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\188\\Тезисы доклада Барышников Ю.Н..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\189\\Аннотация -Фоминых А.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\19\\Голуб - тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\19\\Голуб_Аннотация_FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\21\\FAPM2025_тезисы доклада _Досаев.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\23\\Тюрин. Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\24\\Каспирович.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\25\\ШуваловДМ_Аннотация доклада Rus and Eng.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\25\\ШуваловДМ_Тезисы_доклада_Rus_and_Eng_ред_испр.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\26\\Юй_Аннотация_FAPM2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\27\\ВеретимусНК_аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\28\\ВеретимусДК_аннотация1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\29\\ВеретимусДК_аннотация2.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\30\\Аннотация доклада Кумакшев СА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\31\\Аннтотация_Храпов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\31\\Заявка на участника FAPM-2025_Храпов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\31\\Тезисы_и_Аннотация_Храпов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\32\\Тезисы FAPM-2025 Борисов А.В..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\32\\Шаблон тезисов доклада Rus and Eng Борисов А.В..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\33\\Бертяев_аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\33\\Бертяев_Тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\34\\БеличенкоДА_FAPM-2025_аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\34\\БеличенкоДА_FAPM-2025_тезис.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\35\\Аннотация-Бойко_АВ(FARM2025).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\35\\Расш тезисы ПВД.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\36\\Аннотация Прокофьев_ОчеретяныйЮ Топейцев.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\36\\Расш тезисы ГИС.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\37\\Данилов - Динамика и управление ногой четырехногого шагающего робота.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\38\\Манчев_Аннотация_FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\38\\Манчев_Заявка_FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\38\\Манчев_Тезисы_FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\39\\Кузнецов Ю В - Название и аннотация доклада Rus and Eng.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\39\\Кузнецов ЮВ Тезисы доклада.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\40\\АННОТАЦИЯ_FAPM 2025_Зубин.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\40\\АННОТАЦИЯ_англ_FAPM 2025_Зубин.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\41\\Chashechkin_Abstract_FARM_Yu_L.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\41\\Chashechkin_Annot_FARM_1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\42\\Тезисы_Исмагилов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\45\\Аннотация_Наконечный_FAPM.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\45\\Наконечный Хохлов Тезисы_FAPM.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\45\\Хохлов Тезисы Автоматизированный анализ формы и размеров образцов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\46\\Аннотация Арцибасов Решмин.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\47\\Хохлов Шибанов Автоматизированный анализ формы и размеров образцов.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\48\\аннотация Сафонова Щербов МГУ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\48\\тезисы Сафонова Щербов МГУ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\49\\ФАПМ Иванов ИСПОЛЬЗОВАНИЕ УТОЧНЕННОЙ МОДЕЛИ АЭРОДИНАМИЧЕСКОГО МОМЕНТА ПРИ ИССЛЕДОВАНИИ МАЛЫХ ВЫСОТ ДВИЖЕНИЯ КОСМИЧЕСКОГО АППАРАТА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\50\\ФАПМ Иванов ВЫБОР ЗНАЧЕНИЙ КОЭ... ПАНЕЛИ НА ОСНОВЕ КОНЕЧНО-ЭЛЕМЕНТНОГО АНАЛИЗА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\52\\Тезисы_Скобелева_1_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\53\\Тезисы_Скобелева_2_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\54\\Zubin_Maksimov.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\55\\Аннотация_v3.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\55\\Тезисы_СлободянюкДМ, АфонинСИ и КирдяевНИ_FAPM.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\56\\OChir_Abstr.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\56\\OChir_Tes.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\57\\Тезисы_Рябов_Скворцов_ ФиПЗМ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\59\\Краснобаев аннотация FARM 2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\59\\Краснобаев Заявка на участие в VIII международной научной конференции.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\59\\Краснобаев тезисы FARM 2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\60\\Гулин Хохлов Идентификация по кривым течения 3.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\60\\Гулин Хохлов Идентификация по кривым течения.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\61\\Аннотация_Васенин_Решмин_FAPM2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\62\\Аннотация_Большенко.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\63\\КазаковКЕ - Аннотация доклада Rus and Eng.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\64\\АннотацияFAPM25_БудановВМ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\64\\ТезисыFAPM25_БудановВМ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\65\\Аннотация_FAPM_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\65\\Заявка_FAPM_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\66\\Тезисы FAPM-2025 доклада Заболотский вар 1 страничка.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\67\\FAPM_2025_Морозов_Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\68\\Аннотация_Кошелев_АА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\68\\Кошелев_Кугушев_Шахова - тезисы_НОВАЯ ФОРМА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\69\\Аннотация_Якубович.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\69\\Тезисы_Якубович.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\70\\Тезисы_Хорошева_1.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\71\\Тезисы_Хорошева_2.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\72\\Аннотация_Конев_Савин.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\73\\Аннотация Лобанов FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\73\\Тезисы Лобанов FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\74\\Аннотация Бутырин.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\75\\Шишанин-Обобщения шварциана на старшие производные.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\75\\Шишанин-Тезисы-ФАПМ-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\78\\Мухарлямов. Тезисы FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\79\\Аннотация_МасловДА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\79\\Тезисы_МасловДА.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\80\\Аннотация Боровкова.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\81\\Компаниец. Аннотации.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\81\\Компаниец. Тезисы.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\82\\Доклад. FAPM-2025. Ручинский В.С....docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\83\\FAPM-2025.  Доклад. Купреев С.А...docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\83\\FAPM-2025. .Тезисы  доклад. Купреев С.А.., Ручинский В.С..docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\84\\Аннотация_Голубев_AE.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\84\\Тезисы_Голубев_АЕ.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\86\\Тезисы_Широбокова_2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\87\\!!!!ДмитренкоАВ тезисы доклада Rus and Eng (1) (1).docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\88\\!!!!!ДмитренкоАВ2 Определение гидравлических потерь.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\89\\Сергеев М.Н. Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\90\\Аннотация_Гвоздев.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\91\\аннотация_Тагировой_FAPM25_англ_яз .docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\91\\аннотация_Тагировой_FAPM25_рус_яз_1 .docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\91\\Заявка на участника FAPM-2025-Тагирова.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\92\\Аннотация_Сунчалина.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\93\\Аннотация_07.10.2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\94\\Korotkov_Minaeva_Tezisy_FAPM2025_en.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\94\\Korotkov_Minaeva_Tezisy_FAPM2025_ru.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\94\\заявка+аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\95\\Тезисы FAPM А.Е. Байков.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\96\\Макиева_Э_И_Аннотация.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\96\\Тезисы доклада_Макиева_Э_И.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\97\\Роганова Т_И_Заявка на участника FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\97\\Роганова_Т_И_Тезисы_Учимся_Учиться.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\98\\Жидков Г_Н_Заявка на участника FAPM-2025.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\98\\Жидков_Г_Н_Тезисы_Из_истории_Академии.docx",
+      "reason": "target_exists"
+    },
+    {
+      "source": "C:\\Users\\DanichMA.VASTA\\Desktop\\Python_training\\ArticleNormalizer\\row_doc_dir\\99\\КоносевичБИ_АННОТАЦИЯ.docx",
+      "reason": "target_exists"
+    }
+  ]
+}

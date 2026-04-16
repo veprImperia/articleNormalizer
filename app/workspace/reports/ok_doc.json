@@ -1,0 +1,2440 @@
+{
+  "! Тезисы, Феоктистов, Андрианов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "! феоктистов андрианов"
+  },
+  "!!!!!ДмитренкоАВ2 Определение гидравлических потерь.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "!!!!!дмитренкоав2 оп еление гидравлических потерь"
+  },
+  "!!!!ДмитренкоАВ тезисы доклада Rus and Eng (1) (1).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "!!!!дмитренкоав а rus and eng"
+  },
+  "2025_Perelmuter_Abstract.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "2025 perelmuter"
+  },
+  "2025_Perelmuter_Doclad.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "2025 perelmuter"
+  },
+  "Abstract template Rus_Kapranova AB_YaGTU_08112025-2.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": -25,
+    "duplicate_key": "rus kapranova ab yagtu 08112025 2"
+  },
+  "Abstract template Rus_Novikov EP_YaGTU_08112025-1.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": -25,
+    "duplicate_key": "rus novikov ep yagtu 08112025 1"
+  },
+  "Annotation Zditovets.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "zditovets"
+  },
+  "Chashechkin_Abstract_FARM_Yu_L.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "chashechkin farm yu l"
+  },
+  "Chashechkin_Annot_FARM_1.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "chashechkin annot farm 1"
+  },
+  "FAPM Аннотация Зотов25.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "fapm зотов25"
+  },
+  "FAPM-2025.  Доклад. Купреев С.А...docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "fapm 2025 купреев с а"
+  },
+  "FAPM-2025. .Тезисы  доклад. Купреев С.А.., Ручинский В.С..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "fapm 2025 купреев с а ручинский в с"
+  },
+  "FAPM-25 (2).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 20,
+    "duplicate_key": "fapm 25"
+  },
+  "FAPM2025_тезисы доклада _Досаев.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "fapm2025 а досаев"
+  },
+  "golubevyufkvvmevtezisy.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "golubevyufkvvmev"
+  },
+  "Klimov-FAPM-tesis.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "klimov fapm tesis"
+  },
+  "Krasinskiy 1. docx.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "krasinskiy 1 docx"
+  },
+  "Krasinskiy 2. docx.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "krasinskiy 2 docx"
+  },
+  "Lanford_Bifs.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "lanford bifs"
+  },
+  "OChir_Abstr.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "ochir abstr"
+  },
+  "OChir_Tes.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "ochir tes"
+  },
+  "OvsyannikovVM-tezisyd250933.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "ovsyannikovvm d250933"
+  },
+  "OvsyannikovVMannotaziyad250932.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 18,
+    "duplicate_key": "ovsyannikovvmannotaziyad250932"
+  },
+  "OvsyannikovVMtezisyd250933.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 20,
+    "duplicate_key": "ovsyannikovvm d250933"
+  },
+  "Seesaw_FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "seesaw fapm 2025"
+  },
+  "vetchinkindnmevpenshkpmtezisy.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "vetchinkindnmevpenshkpm"
+  },
+  "Zubin_Maksimov.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "zubin maksimov"
+  },
+  "Аннотация  Андреев.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "андреев"
+  },
+  "Аннотация  Встреча в SO(3).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "встреча в so(3)"
+  },
+  "Аннотация (Павлов И.В.).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "(павлов и в )"
+  },
+  "Аннотация -Фоминых А.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "фоминых а"
+  },
+  "Аннотация .docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": ""
+  },
+  "Аннотация FARM 2025, ЛукинКБ,  ФН4.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "farm 2025 лукинкб фн4"
+  },
+  "Аннотация Rus and Eng ВИН КК, Темнов АН, Ануф. ВЮ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "rus and eng вин кк темнов ан ануф вю"
+  },
+  "Аннотация Азизов, Приходько.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "азизов приходько"
+  },
+  "Аннотация Арцибасов Решмин.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "арцибасов решмин"
+  },
+  "Аннотация Афонина Е В.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "афонина е в"
+  },
+  "Аннотация Боровкова.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "боровкова"
+  },
+  "аннотация Брюквин А.В..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "брюквин а в"
+  },
+  "Аннотация Бутырин.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "бутырин"
+  },
+  "Аннотация Ветчинкин Д.Н., Мелкумова Е.В., Поляхова Е.Н., Шкапов П.М..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "ветчинкин д н мелкумова е в поляхова е н шкапов п м"
+  },
+  "Аннотация Голубев Ю.Ф., Корянов В.В., Мелкумова Е.В..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "голубев ю ф корянов в в мелкумова е в"
+  },
+  "Аннотация Горбачевская.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "горбачевская"
+  },
+  "Аннотация доклада Rus and Eng-Саяпин С.Н..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "а rus and eng саяпин с н"
+  },
+  "Аннотация доклада Кумакшев СА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "а кумакшев са"
+  },
+  "Аннотация Забытые имена.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "забытые имена"
+  },
+  "Аннотация и тезисы - Чжан Юе.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "и чжан юе"
+  },
+  "Аннотация КБ и Шевченко.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": "кб и шевченко"
+  },
+  "Аннотация Котов А.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "котов а"
+  },
+  "Аннотация Лобанов FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "лобанов fapm 2025"
+  },
+  "Аннотация Новицкий, Приходько.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "новицкий приходько"
+  },
+  "Аннотация Орёл Н А.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "орёл н а"
+  },
+  "Аннотация Петром М.М..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "петром м м"
+  },
+  "аннотация Сафонова Щербов МГУ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "сафонова щербов мгу"
+  },
+  "Аннотация-Грибова-ОВ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "грибова ов"
+  },
+  "Аннотация-Ивана_Милич_Житник.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 18,
+    "duplicate_key": "ивана милич житник"
+  },
+  "Аннотация. ГаязовСР. FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "гаязовср fapm 2025"
+  },
+  "Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": ""
+  },
+  "Аннотация.Завойчинская,Лавриков.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "завойчинская лавриков"
+  },
+  "Аннотация_07.10.2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "07 10 2025"
+  },
+  "аннотация_F2025_Привалова.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "f2025 привалова"
+  },
+  "АННОТАЦИЯ_FAPM 2025_Зубин.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "fapm 2025 зубин"
+  },
+  "аннотация_FAPM2025_Климина.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "fapm2025 климина"
+  },
+  "Аннотация_FAPM_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "fapm 2025"
+  },
+  "Аннотация_v3.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": ""
+  },
+  "Аннотация_Берестова СА _Поле температур.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "берестова са поле температур"
+  },
+  "Аннотация_Берестова СА _Ситуационные задания.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "берестова са ситуационные задания"
+  },
+  "Аннотация_Васенин_Решмин_FAPM2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "васенин решмин fapm2025"
+  },
+  "Аннотация_Гвоздев.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "гвоздев"
+  },
+  "Аннотация_Голубев_AE.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "голубев ae"
+  },
+  "Аннотация_Иванычев Д.А..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "иванычев д а"
+  },
+  "Аннотация_Карабанов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "карабанов"
+  },
+  "Аннотация_Китаева Д.А..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "китаева д а"
+  },
+  "Аннотация_Колганова.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "колганова"
+  },
+  "Аннотация_Конев_Савин.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "конев савин"
+  },
+  "Аннотация_Кошелев_АА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "кошелев аа"
+  },
+  "Аннотация_МасловДА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "масловда"
+  },
+  "Аннотация_Наконечный_FAPM.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "наконечный fapm"
+  },
+  "Аннотация_Сунчалина.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "сунчалина"
+  },
+  "аннотация_Тагировой_FAPM25_рус_яз_1 .docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": "тагировой fapm25 рус яз 1"
+  },
+  "Аннотация_Шекенов_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "шекенов 2025"
+  },
+  "Аннотация_Якубович.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "якубович"
+  },
+  "АннотацияFAPM25_БудановВМ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "fapm25 будановвм"
+  },
+  "АннотацияАбраровFAPM25.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "абраровfapm25"
+  },
+  "Аннтотация_Храпов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "аннтотация храпов"
+  },
+  "Анотация-Klimov-imec.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "анотация klimov imec"
+  },
+  "Беличенко аннотации_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "беличенко аннотации 2025"
+  },
+  "Беличенко_тезисы_FAPM_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "беличенко fapm 2025"
+  },
+  "БеличенкоДА_FAPM-2025_аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": "беличенкода fapm 2025"
+  },
+  "БеличенкоДА_FAPM-2025_тезис.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "беличенкода fapm 2025"
+  },
+  "Бертяев_аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "бертяев"
+  },
+  "Бертяев_Тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "бертяев"
+  },
+  "БулатовВВ_аннотация доклада Rus and Eng.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "булатоввв а rus and eng"
+  },
+  "БулатовВВ_тезисы доклада Rus and Eng.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "булатоввв а rus and eng"
+  },
+  "Бычков Р.С._Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "бычков р с"
+  },
+  "Бычков Р.С._Тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "бычков р с"
+  },
+  "Веремейчик_2025-1.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": "веремейчик 2025 1"
+  },
+  "Веремейчик_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "веремейчик 2025"
+  },
+  "Веремейчик_2025_2.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "веремейчик 2025 2"
+  },
+  "Веремейчик_2_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": "веремейчик 2 2025"
+  },
+  "ВеретимусДК_аннотация1.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "веретимусдк 1"
+  },
+  "ВеретимусДК_аннотация2.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "веретимусдк 2"
+  },
+  "ВеретимусНК_аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "веретимуснк"
+  },
+  "Волков А. А. аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "волков а а"
+  },
+  "Волков А.А, тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "волков а а"
+  },
+  "Голуб - тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "голуб"
+  },
+  "Голуб_Аннотация_FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "голуб fapm 2025"
+  },
+  "Гулин Хохлов Идентификация по кривым течения 3.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 21,
+    "duplicate_key": "гулин хохлов идентификация по кривым течения 3"
+  },
+  "Гулин Хохлов Идентификация по кривым течения.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "гулин хохлов идентификация по кривым течения"
+  },
+  "Данилов - Динамика и управление ногой четырехногого шагающего робота.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "данилов динамика и управление ногой четырехногого шагающего робота"
+  },
+  "Доклад. FAPM-2025. Ручинский В.С....docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "fapm 2025 ручинский в с"
+  },
+  "Дуйшеналиев_Аннотация_10.10.25.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "дуйшеналиев 10 10 25"
+  },
+  "Жидков_Г_Н_Тезисы_Из_истории_Академии.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "жидков г н из истории академии"
+  },
+  "Журин С.В. Аннотация и Тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "журин с в и"
+  },
+  "Заявка на участника FAPM-2025 (Канатников).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": -83,
+    "duplicate_key": "на участника fapm 2025 (канатников)"
+  },
+  "Заявка на участника FAPM-2025, ЛукинК.Б, ФН4.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": -83,
+    "duplicate_key": "на участника fapm 2025 лукинк б фн4"
+  },
+  "заявка+аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": -79,
+    "duplicate_key": "+"
+  },
+  "Искусственная гравитация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 17,
+    "duplicate_key": "искусственная гравитация"
+  },
+  "Исправленные Тезисы Андреев .docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "авленные андреев"
+  },
+  "КазаковКЕ - Аннотация доклада Rus and Eng.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "казаковке а rus and eng"
+  },
+  "Каспирович.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "каспирович"
+  },
+  "Киселева_Е.К._Тезисы_FAPM.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "киселева е к fapm"
+  },
+  "Киселёв-Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "киселёв"
+  },
+  "Компаниец. Тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "компаниец"
+  },
+  "Кошелев_Кугушев_Шахова - тезисы_НОВАЯ ФОРМА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "кошелев кугушев шахова новая форма"
+  },
+  "Краснобаев аннотация FARM 2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "краснобаев farm 2025"
+  },
+  "Крищенко аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "крищенко"
+  },
+  "Кузнецов Ю В - Название и аннотация доклада Rus and Eng.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "кузнецов ю в название и а rus and eng"
+  },
+  "Кутузов аннотация FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "кутузов fapm 2025"
+  },
+  "Кутузов тезисы FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "кутузов fapm 2025"
+  },
+  "Макиева_Э_И_Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "макиева э и"
+  },
+  "Манчев_Аннотация_FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "манчев fapm 2025"
+  },
+  "Манчев_Тезисы_FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "манчев fapm 2025"
+  },
+  "Математическое_моделирование_траектории_полёта_гимнастического_снаряда.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 17,
+    "duplicate_key": "математическое моделирование траектории полёта гимнастического снаряда"
+  },
+  "Мухарлямов. Тезисы FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "мухарлямов fapm 2025"
+  },
+  "Наконечный Хохлов Тезисы_FAPM.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 24,
+    "duplicate_key": "наконечный хохлов fapm"
+  },
+  "Обрадович тезисы FAPM 2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "обрадович fapm 2025"
+  },
+  "Окунев-Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "окунев"
+  },
+  "Окунев-Тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 19,
+    "duplicate_key": "окунев"
+  },
+  "Оптимизация манипуляторов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 17,
+    "duplicate_key": "оптимизация манипуляторов"
+  },
+  "Оптимизация расчетов кинематики параллельных манипуляторов с учетом задаваемых параметров.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "оптимизация расчетов кинематики параллельных манипуляторов с учетом задаваемых параметров"
+  },
+  "ОрлянскаяТИ_аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 17,
+    "duplicate_key": "орлянскаяти"
+  },
+  "ОрлянскаяТИ_тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "орлянскаяти"
+  },
+  "Полянина АС_Построение инвариантного множества и синтез системы управления с обратной связью по состоянию.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "полянина ас построение инвариантного множества и синтез системы управления с обратной связью по состоянию"
+  },
+  "Попович_Аннотация_ред.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 23,
+    "duplicate_key": "попович"
+  },
+  "Пример оформления - тезисы.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "пример оформления"
+  },
+  "Расчет_траектории_полета_несимметричного_тела.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 17,
+    "duplicate_key": "расчет траектории полета несимметричного тела"
+  },
+  "Расш тезисы ГИС.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "расш гис"
+  },
+  "Расш тезисы ПВД.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "расш пвд"
+  },
+  "Роганова_Т_И_Тезисы_Учимся_Учиться.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "роганова т и учимся учиться"
+  },
+  "Романовская Е.М. -аннотация (1).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "романовская е м"
+  },
+  "Саяпин С.Н..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "саяпин с н"
+  },
+  "Сергеев М.Н. Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "сергеев м н"
+  },
+  "Сулимов ВД_.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "сулимов вд"
+  },
+  "Тез доклада.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "тез а"
+  },
+  "Тезис FAPM 2025 Орёл Н А (краткая версия).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "fapm 2025 орёл н а (краткая версия)"
+  },
+  "Тезис. ГаязовСР. FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "гаязовср fapm 2025"
+  },
+  "Тезисы - ГрибоваОВ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "грибоваов"
+  },
+  "тезисы 1.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "1"
+  },
+  "тезисы 2.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "2"
+  },
+  "Тезисы FAPM А.Е. Байков.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "fapm а е байков"
+  },
+  "Тезисы FAPM-2025 Борисов А.В..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "fapm 2025 борисов а в"
+  },
+  "Тезисы FAPM-2025 доклада Заболотский вар 1 страничка.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "fapm 2025 а заболотский вар 1 страничка"
+  },
+  "Тезисы доклада Rus and Eng_Загайнов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "а rus and eng загайнов"
+  },
+  "Тезисы доклада Rus-Ивана_Милич_Житник.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_keywords_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "а rus ивана милич житник"
+  },
+  "Тезисы доклада Барышников Ю.Н..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "а барышников ю н"
+  },
+  "Тезисы доклада Гришакин_Борисов_rev.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "а гришакин борисов rev"
+  },
+  "Тезисы доклада_Макиева_Э_И.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "а макиева э и"
+  },
+  "Тезисы Дьяченко Темнов Колебания физического маятника.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "дьяченко темнов колебания физического маятника"
+  },
+  "Тезисы Забытые имена.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 23,
+    "duplicate_key": "забытые имена"
+  },
+  "тезисы Каданцев. Карпачев.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "каданцев карпачев"
+  },
+  "тезисы Калиниченко_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "калиниченко 2025"
+  },
+  "Тезисы Котов А ФН2-31М.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "котов а фн2 31м"
+  },
+  "Тезисы Лобанов FAPM-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "лобанов fapm 2025"
+  },
+  "Тезисы ЛукинКБ, ФН4,08.11.2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "лукинкб фн4 08 11 2025"
+  },
+  "Тезисы Петров М.М. МГУ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "петров м м мгу"
+  },
+  "Тезисы пленарные.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "пленарные"
+  },
+  "тезисы Сафонова Щербов МГУ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "сафонова щербов мгу"
+  },
+  "Тезисы.Завойчинская,Лавриков.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "завойчинская лавриков"
+  },
+  "Тезисы_FAMP.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "famp"
+  },
+  "Тезисы_Голубев_АЕ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "голубев ае"
+  },
+  "Тезисы_и_Аннотация_Храпов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "и храпов"
+  },
+  "Тезисы_Иванычев Д.А..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "иванычев д а"
+  },
+  "Тезисы_Исмагилов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "исмагилов"
+  },
+  "Тезисы_Китаева Д.А..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "китаева д а"
+  },
+  "Тезисы_МасловДА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "масловда"
+  },
+  "Тезисы_Рябов_Скворцов_ ФиПЗМ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "рябов скворцов фипзм"
+  },
+  "Тезисы_Скобелева_1_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 26,
+    "duplicate_key": "скобелева 1 2025"
+  },
+  "Тезисы_Скобелева_2_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "скобелева 2 2025"
+  },
+  "Тезисы_СлободянюкДМ, АфонинСИ и КирдяевНИ_FAPM.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "слободянюкдм афонинси и кирдяевни fapm"
+  },
+  "Тезисы_Хорошева_1.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "хорошева 1"
+  },
+  "Тезисы_Хорошева_2.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "хорошева 2"
+  },
+  "Тезисы_Широбокова_2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "широбокова 2025"
+  },
+  "Тезисы_Якубович.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 28,
+    "duplicate_key": "якубович"
+  },
+  "ТезисыFAPM25_БудановВМ.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 30,
+    "duplicate_key": "fapm25 будановвм"
+  },
+  "Тезсы Встреча в SO(3).docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "тезсы встреча в so(3)"
+  },
+  "Тюрин. Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 22,
+    "duplicate_key": "тюрин"
+  },
+  "ФАПМ Иванов ВЫБОР ЗНАЧЕНИЙ КОЭ... ПАНЕЛИ НА ОСНОВЕ КОНЕЧНО-ЭЛЕМЕНТНОГО АНАЛИЗА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 16,
+    "duplicate_key": "фапм иванов выбор значений коэ панели на основе конечно элементного анализа"
+  },
+  "ФАПМ Иванов ИСПОЛЬЗОВАНИЕ УТОЧНЕННОЙ МОДЕЛИ АЭРОДИНАМИЧЕСКОГО МОМЕНТА ПРИ ИССЛЕДОВАНИИ МАЛЫХ ВЫСОТ ДВИЖЕНИЯ КОСМИЧЕСКОГО АППАРАТА.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_keywords_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 16,
+    "duplicate_key": "фапм иванов использование уточненной модели аэродинамического момента при исследовании малых высот движения космического аппарата"
+  },
+  "Хохлов Тезисы Автоматизированный анализ формы и размеров образцов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_keywords_ru",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": false,
+    "merge_score": 24,
+    "duplicate_key": "хохлов автоматизированный анализ формы и размеров образцов"
+  },
+  "Хохлов Шибанов Автоматизированный анализ формы и размеров образцов.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 24,
+    "duplicate_key": "хохлов шибанов автоматизированный анализ формы и размеров образцов"
+  },
+  "Чиненова-Аннотация.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 25,
+    "duplicate_key": "чиненова"
+  },
+  "Шаблон тезисов доклада Rus and Eng Борисов А.В..docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": -22,
+    "duplicate_key": "ов а rus and eng борисов а в"
+  },
+  "Шишанин-Обобщения шварциана на старшие производные.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_title_en",
+      "missing_authors_en_block",
+      "missing_abstract_en",
+      "missing_reference_block"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 21,
+    "duplicate_key": "шишанин обобщения шварциана на старшие производные"
+  },
+  "Шишанин-Тезисы-ФАПМ-2025.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "шишанин фапм 2025"
+  },
+  "ШуваловДМ_Аннотация доклада Rus and Eng.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 27,
+    "duplicate_key": "шуваловдм а rus and eng"
+  },
+  "ШуваловДМ_Тезисы_доклада_Rus_and_Eng_ред_испр.docx": {
+    "status": "ok",
+    "issues": [],
+    "optional_miss": [
+      "missing_udk",
+      "missing_abstract_en"
+    ],
+    "merge_ready_minimal": true,
+    "merge_score": 29,
+    "duplicate_key": "шуваловдм а rus and eng"
+  }
+}
